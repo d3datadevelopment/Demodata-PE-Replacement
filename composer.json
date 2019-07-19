@@ -1,7 +1,6 @@
 {
   "name": "d3/oxideshop-demodata-pe-replacement",
   "description": "Empty replacement for the PE demo data when not in use",
-  "version": "1.0.0",
   "require": {
     "oxid-esales/oxideshop-metapackage-pe": "^6.0"
     "d3/oxideshop-demodata-ce-replacement": "*"
